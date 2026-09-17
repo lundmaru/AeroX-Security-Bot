@@ -1,20 +1,20 @@
 {
-    "token": "token here",
+    "token": "",
 
     "prefix": ";",
 
-    "MONGO": "mongodb here",
+    "MONGO": "mongodb+srv://<db_username>:agVHcBQbKAUFy63Y@cluster0.2tbcvw2.mongodb.net/?appName=Cluster0",
 
     "owner": [
-        "ownerid here",
+        "1514994884501835885",
         ""
     ],
 
     "extraowners": [],
 
-    "reportChannel": "report channel id",
+    "reportChannel": "1549944195836280893",
 
-    "support_server_link": "https://discord.gg/aerox",
+    "support_server_link": "https://discord.gg/offcord",
 
-    "inviteURL": "https://discord.gg/aerox"
+    "inviteURL": "https://discord.gg/offcord"
 }
